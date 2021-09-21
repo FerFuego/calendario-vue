@@ -1,5 +1,7 @@
 # calendario
 
+Aplicacion con Vue CLI + VUETIFY + FIREBASE
+
 ## Project setup
 ```
 npm install
